@@ -70,7 +70,6 @@
 - [dotfiles](#dotfiles)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
-- [electron](#electron)
 - [emacs](#emacs)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -785,10 +784,6 @@
 - [yhzhang0128/egos-2000](https://github.com/yhzhang0128/egos-2000) - Envision a future where everyone can read all the code of an educational operating system.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-## electron 
-
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 
 ## emacs 
 

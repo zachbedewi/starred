@@ -416,7 +416,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic's original performance take-home, now open for you to try!
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
@@ -431,7 +430,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory) - 🧠 Universal semantic indexer providing persistent memory for Claude Code through knowledge   graphs, Tree-sitter parsing, and Qdrant vector search
 - [disler/claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable) - Scale your compute with Claude Code as a programmable agentic coding tool
 - [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) - Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
@@ -463,6 +462,7 @@
 
 ## QML 
 
+- [StatIndet/quickshell](https://github.com/StatIndet/quickshell) - Works on my machine.
 - [Nisfeight8/Nisfere](https://github.com/Nisfeight8/Nisfere) - A developer-focused Hyprland desktop shell (Quickshell + Python daemon) — Git repo manager, Docker dashboard, SSH quick-connect, embedded terminal, and dynamic wallpaper-based theming.
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.
 - [roosta/dotfiles](https://github.com/roosta/dotfiles) - ritualistic dotfiles for arch Linux made with hyprland and quickshell
@@ -519,6 +519,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mb1986/rm-hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices, covering both rM1 and rM2.

@@ -222,7 +222,6 @@
 - [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) - ☕ Dead simple yet super extensible zen mode plugin to protect your neck.
 - [theherk/commons](https://github.com/theherk/commons) - System configuration inspired by many; bespoke to me.
-- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization.
@@ -479,6 +478,7 @@
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [AhmedSaadi0/NibrasShell](https://github.com/AhmedSaadi0/NibrasShell) - AI‑integrated shell.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
+- [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 
 ## Ruby 

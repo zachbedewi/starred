@@ -1384,7 +1384,7 @@
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [soulscircuit/pilet](https://github.com/soulscircuit/pilet) - 3D files, schematics, and documentation for Pilet—an open-source, modular, and portable mini-computer.
 - [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
-- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist, modular & easily customizable setup, heavily focused on TUIs. It provides a structured way to manage your system configuration and
+- [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy simplifies and unifies the Hyprland ecosystem with a minimalist & easily customizable NixOS setup, heavily focused on TUIs.
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [LilleAila/dotfiles](https://github.com/LilleAila/dotfiles) - My dotfiles for NixOS, including my home-manager and system configuration.

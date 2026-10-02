@@ -1278,6 +1278,7 @@
 
 ## others 
 
+- [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [ne0tt/Hypr-3LA](https://github.com/ne0tt/Hypr-3LA) - 
 - [Nisfeight8/Nisfere](https://github.com/Nisfeight8/Nisfere) - A developer-focused Hyprland desktop shell (Quickshell + Python daemon) — Git repo manager, Docker dashboard, SSH quick-connect, embedded terminal, and dynamic wallpaper-based theming.

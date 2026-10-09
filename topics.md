@@ -314,7 +314,7 @@
 ## archlinux 
 
 - [roosta/dotfiles](https://github.com/roosta/dotfiles) - ritualistic dotfiles for arch Linux made with hyprland and quickshell
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
+- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux / Hyprland / Quickshell dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 
 ## artificial-intelligence 
 
@@ -447,7 +447,6 @@
 ## bash 
 
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 ## beginner-project 
@@ -767,7 +766,7 @@
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles) - pls help
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
+- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux / Hyprland / Quickshell dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [semi710/ndots](https://github.com/semi710/ndots) - NixOs/Nix Config using flake (flake-parts).
@@ -1047,7 +1046,7 @@
 - [protesilaos/dotfiles](https://github.com/protesilaos/dotfiles) - Configuration files for Emacs, tiling window managers, and related for Linux. Managed with GNU Stow.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
+- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux / Hyprland / Quickshell dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 - [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [namishh/crystal](https://github.com/namishh/crystal) - nix dotfiles for chilly people
 - [librephoenix/nixos-config](https://github.com/librephoenix/nixos-config) - Nix noob trying to build his system
@@ -1521,7 +1520,7 @@
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
+- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux / Hyprland / Quickshell dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [megadose/OnionSearch](https://github.com/megadose/OnionSearch) - OnionSearch is a script that scrapes urls on different .onion search engines.
@@ -1658,7 +1657,7 @@
 - [Speyll/dotfiles](https://github.com/Speyll/dotfiles) - Efficiency meets aesthetics, my dotfiles are fine-tuned for a seamless Linux experience. Take control of your system with this clean, minimalistic configuration. 🚀
 - [Jas-SinghFSU/HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) - A Bar/Panel for Hyprland with extensive customizability.
 - [colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles) - Configuration files for XMonad, Emacs, NixOS, Taffybar and more.
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
+- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux / Hyprland / Quickshell dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1731,7 +1730,6 @@
 - [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++23/Java/Python/MySQL/TypeScript (respect coding conventions)
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
-- [AymanLyesri/ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) - Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.

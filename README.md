@@ -110,7 +110,7 @@
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [seagle0128/.emacs.d](https://github.com/seagle0128/.emacs.d) - Centaur Emacs - A Fancy and Fast Emacs Configuration
 - [jorgenschaefer/emacs-buttercup](https://github.com/jorgenschaefer/emacs-buttercup) - Behavior-Driven Emacs Lisp Testing
-- [akirak/emacs-config](https://github.com/akirak/emacs-config) - An Emacs + home-manager configuration on denix and twist.nix
+- [akirak/emacs-config](https://github.com/akirak/emacs-config) - An Emacs + home-manager configuration based on denix and twist.nix
 - [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [bling/dotemacs](https://github.com/bling/dotemacs) - emacs configuration for vim users
@@ -563,7 +563,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/oss

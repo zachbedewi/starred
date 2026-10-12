@@ -1327,7 +1327,7 @@
 - [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course
 - [victorpoughon/cppiceberg](https://github.com/victorpoughon/cppiceberg) - The C++ Iceberg
 - [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
-- [quasar-chunawala/qc-libcpp](https://github.com/quasar-chunawala/qc-libcpp) - Custom implementations of various data-structures and design-patterns.
+- [quasar-chunawala/qc-xstd](https://github.com/quasar-chunawala/qc-xstd) - Custom implementations of standard library containers
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer
 - [kunal-kushwaha/Competitive-Programming-Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) - Competitive Programming & System Design Resources.

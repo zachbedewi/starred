@@ -63,7 +63,7 @@
 - [hqztrue/LeetCodeSolutions](https://github.com/hqztrue/LeetCodeSolutions) - Theoretical solutions for LeetCode problems.
 - [Yawn-Sean/Daily_CF_Problems](https://github.com/Yawn-Sean/Daily_CF_Problems) - To practice your competitive programming skills, try solving daily Codeforces problems!
 - [rigtorp/SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11
-- [quasar-chunawala/qc-xstd](https://github.com/quasar-chunawala/qc-xstd) - Custom implementations of standard library containers
+- [quasar-chunawala/qc-xstd](https://github.com/quasar-chunawala/qc-xstd) - Custom implementations of standard library containers.
 - [LouisSch/Backtest-Engine](https://github.com/LouisSch/Backtest-Engine) - A modular high-performance C++ backtesting engine featuring GBM + Jump tick simulation and multiple plug-and-play trading strategies. Containerized with Docker for easy execution.
 - [nragland37/cpp-projects](https://github.com/nragland37/cpp-projects) - Collection of 50 C++ Projects, Algorithms, Data Structures & Learning Materials
 - [walkccc/LeetCode](https://github.com/walkccc/LeetCode) - 💡 LeetCode in C++23/Java/Python/MySQL/TypeScript (respect coding conventions)
@@ -97,7 +97,7 @@
 
 - [Borderliner/Chadmacs](https://github.com/Borderliner/Chadmacs) - Chadmacs Emacs config
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.config/emacs clean
-- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
+- [xenodium/agent-shell](https://github.com/xenodium/agent-shell) - Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
 - [positron-solutions/posimacs](https://github.com/positron-solutions/posimacs) - Emacs + tools in home manager module distribution format
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!

@@ -282,7 +282,7 @@
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
-- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS container and devShells collection
+- [redcode-labs/RedNix](https://github.com/redcode-labs/RedNix) - Hackable NixOS devShell collection with MicroVM, supporting Linux and macOS hosts. Made for cybersecurity enthusiasts and professionals.
 - [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration) - MaxMur NixOS config & Home-Manager config
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions

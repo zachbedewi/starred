@@ -239,6 +239,7 @@
 - [theherk/commons](https://github.com/theherk/commons) - System configuration inspired by many; bespoke to me.
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [lvim-tech/lvim](https://github.com/lvim-tech/lvim) - LVIM IDE is a modular Neovim configuration written in LUA with full customization.
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for Neovim
 - [elenapan/dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
@@ -331,7 +332,6 @@
 - [jordanisaacs/neovim-flake](https://github.com/jordanisaacs/neovim-flake) - Nix flake for neovim with configuration
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [erictossell/nixflakes](https://github.com/erictossell/nixflakes) - My nixdots, but flaked.
 
 ## Others 

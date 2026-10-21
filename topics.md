@@ -1329,7 +1329,7 @@
 - [Yawn-Sean/Daily_CF_Problems](https://github.com/Yawn-Sean/Daily_CF_Problems) - To practice your competitive programming skills, try solving daily Codeforces problems!
 - [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course
 - [victorpoughon/cppiceberg](https://github.com/victorpoughon/cppiceberg) - The C++ Iceberg
-- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
+- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Oc
 - [quasar-chunawala/qc-xstd](https://github.com/quasar-chunawala/qc-xstd) - Custom implementations of standard library containers.
 - [remzi-arpacidusseau/ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer

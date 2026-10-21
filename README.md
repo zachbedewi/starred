@@ -352,7 +352,7 @@
 - [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp) - C++ Tip Of The Week
 - [ept/ddia-references](https://github.com/ept/ddia-references) - Literature references for “Designing Data-Intensive Applications”
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Ju
+- [liquidslr/leetcode-company-wise-problems](https://github.com/liquidslr/leetcode-company-wise-problems) - Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Oc
 - [kunal-kushwaha/Competitive-Programming-Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources) - Competitive Programming & System Design Resources.
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.

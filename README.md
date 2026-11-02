@@ -168,7 +168,6 @@
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [BobHasNoSoul/jellyfin-mods](https://github.com/BobHasNoSoul/jellyfin-mods) - This is just a guide for various modifications and dumping ground for jellyfin mods so i dont have to make a new jftool for every platform and revision
 - [soulscircuit/pilet](https://github.com/soulscircuit/pilet) - 3D files, schematics, and documentation for Pilet—an open-source, modular, and portable mini-computer.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -258,6 +257,7 @@
 ## MDX 
 
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -343,6 +343,7 @@
 
 ## Others 
 
+- [dhrruvsharma/wallpapers](https://github.com/dhrruvsharma/wallpapers) - 
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
@@ -426,6 +427,7 @@
 
 ## Python 
 
+- [evgen2571/wallpapers](https://github.com/evgen2571/wallpapers) - just my wallpaper collection
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [fr0st-xyz/wallz](https://github.com/fr0st-xyz/wallz) - ⛅ \\ A collection of cool wallpapers for your desktop.
 - [cybergeekgyan/Quant-Developers-Resources](https://github.com/cybergeekgyan/Quant-Developers-Resources) - Resources to Prepare for Quant Developers/ Quantitative Researcher/ Quantitative Trader/ Quant Analyst/ Software Engineers in Quant Trading Firms, HFTs and Hedge Funds
@@ -483,6 +485,7 @@
 
 ## QML 
 
+- [dhrruvsharma/qs-wallpaperpicker](https://github.com/dhrruvsharma/qs-wallpaperpicker) - 
 - [StatIndet/quickshell](https://github.com/StatIndet/quickshell) - Works on my machine.
 - [Nisfeight8/Nisfere](https://github.com/Nisfeight8/Nisfere) - A developer-focused Hyprland desktop shell (Quickshell + Python daemon) — Git repo manager, Docker dashboard, SSH quick-connect, embedded terminal, and dynamic wallpaper-based theming.
 - [Axenide/Ambxst](https://github.com/Axenide/Ambxst) - An Axtremely customizable shell.

@@ -1297,6 +1297,9 @@
 
 ## others 
 
+- [evgen2571/wallpapers](https://github.com/evgen2571/wallpapers) - just my wallpaper collection
+- [dhrruvsharma/qs-wallpaperpicker](https://github.com/dhrruvsharma/qs-wallpaperpicker) - 
+- [dhrruvsharma/wallpapers](https://github.com/dhrruvsharma/wallpapers) - 
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.

@@ -1313,7 +1313,7 @@
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [makccr/wallpapers](https://github.com/makccr/wallpapers) - A repo that contains a whole bunch of nice, mostly =&gt;4K wallpapers.
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
-- [ne0tt/Hypr-3LA](https://github.com/ne0tt/Hypr-3LA) - 
+- [ne0tt/3LA-Plugins](https://github.com/ne0tt/3LA-Plugins) - 
 - [Nisfeight8/Nisfere](https://github.com/Nisfeight8/Nisfere) - A developer-focused Hyprland desktop shell (Quickshell + Python daemon) — Git repo manager, Docker dashboard, SSH quick-connect, embedded terminal, and dynamic wallpaper-based theming.
 - [fr0st-xyz/wallz](https://github.com/fr0st-xyz/wallz) - ⛅ \\ A collection of cool wallpapers for your desktop.
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
@@ -1387,7 +1387,7 @@
 - [magnars/dash.el](https://github.com/magnars/dash.el) - A modern list library for Emacs
 - [jorgenschaefer/emacs-buttercup](https://github.com/jorgenschaefer/emacs-buttercup) - Behavior-Driven Emacs Lisp Testing
 - [ryokun6/ryos](https://github.com/ryokun6/ryos) - ryOS, made with Cursor
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Reference Servers
 - [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory) - 🧠 Universal semantic indexer providing persistent memory for Claude Code through knowledge   graphs, Tree-sitter parsing, and Qdrant vector search
 - [disler/claude-code-is-programmable](https://github.com/disler/claude-code-is-programmable) - Scale your compute with Claude Code as a programmable agentic coding tool
 - [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Claude Code Workflow for beginners & intermediate users. Tutorial and Installer included

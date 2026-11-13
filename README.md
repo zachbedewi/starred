@@ -89,6 +89,7 @@
 ## Common Lisp 
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 
 ## Dart 
 
@@ -213,7 +214,6 @@
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [jeffbarr/gridfinity-catalog](https://github.com/jeffbarr/gridfinity-catalog) - Catalog of Gridfinity Designs and Other Resources
 - [jarrodwatts/claude-code-config](https://github.com/jarrodwatts/claude-code-config) - My personal Claude Code configuration - rules, hooks, agents, skills, and commands
-- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [NespoliBT/.dotfiles](https://github.com/NespoliBT/.dotfiles) - 
 - [imthekaiser/Tdarr-One-Flow](https://github.com/imthekaiser/Tdarr-One-Flow) - Set of flows for Tdarr.  Also lots of ffmpeg resources on how to use various encoders
@@ -271,6 +271,7 @@
 
 ## Markdown 
 
+- [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -280,7 +281,7 @@
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
@@ -322,7 +323,6 @@
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
 - [linuxmobile/shin](https://github.com/linuxmobile/shin) - A study in structural evolution. An elegant NixOS environment designed to move with the rhythm of your creative core.
 - [anotherhadi/nixy](https://github.com/anotherhadi/nixy) - Nixy: a hardened, minimalist & dendritic NixOS configuration, built around Sway and heavily focused on TUIs.
-- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [gytis-ivaskevicius/nixfiles](https://github.com/gytis-ivaskevicius/nixfiles) - My kick-ass NixOS systems configurations!!
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better

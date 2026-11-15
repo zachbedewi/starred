@@ -623,7 +623,7 @@
 - [StatIndet/quickshell](https://github.com/StatIndet/quickshell) - Works on my machine.
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
-- [rigtorp/SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++11
+- [rigtorp/SPSCQueue](https://github.com/rigtorp/SPSCQueue) - A bounded single-producer single-consumer wait-free and lock-free queue written in C++20
 - [LouisSch/Backtest-Engine](https://github.com/LouisSch/Backtest-Engine) - A modular high-performance C++ backtesting engine featuring GBM + Jump tick simulation and multiple plug-and-play trading strategies. Containerized with Docker for easy execution.
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [nragland37/cpp-projects](https://github.com/nragland37/cpp-projects) - Collection of 50 C++ Projects, Algorithms, Data Structures & Learning Materials
